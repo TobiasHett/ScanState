@@ -11,7 +11,7 @@ pathName = 'Z:\xeprFiles\Acquisition\';                                         
 
 Updatefrq=60;                                                                     % How many seconds to wait between two updates?
 m=8;                                                                              % Number of Tau averaging steps.
-opengl hardwarebasic;
+%opengl hardwarebasic;
 
 % Save settings.
 DestinationPath='D:\MySavedEPRData\';                                             % Where to save the data?
